@@ -1,0 +1,29 @@
+name: Canny Monkey Photography
+favicon: null
+layout_spectrum: 0.6387346694245934
+typography_spectrum: 0.5818097689189017
+title: Travel and Landscape Photography
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4527681991457939
+  lightness: 0.42356913769617677
+  saturation: 0.9975709340069443
+  rhythmicContrast: 0.5062865370418876
+purpose: []
